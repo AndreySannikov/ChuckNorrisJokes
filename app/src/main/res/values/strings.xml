@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CNJoke</string>
+    <string name="no_message">no message</string>
+    <string name="yes">yes</string>
+    <string name="hint_search">Count</string>
+    <string name="jokes">Jokes</string>
+    <string name="web">Web</string>
+    <string name="reload">RELOAD</string>
+</resources>
