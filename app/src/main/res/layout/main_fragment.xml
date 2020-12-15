@@ -34,6 +34,7 @@
             android:backgroundTint="@color/colorPrimaryLight"
             android:padding="@dimen/padding_24"
             android:layout_margin="@dimen/padding_16"
+            android:gravity="center"
             android:maxLines="1"
             android:maxLength="9"
             android:numeric="integer"

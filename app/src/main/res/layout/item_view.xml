@@ -18,7 +18,6 @@
             android:id="@+id/tv_joke"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:gravity="left"
             android:maxLines="1"
             android:ellipsize="end"
             android:singleLine="true"
@@ -27,19 +26,6 @@
             android:layout_marginLeft="@dimen/padding_16"
             android:layout_marginRight="@dimen/padding_16"
             tools:text="Name" />
-
-<!--        <TextView-->
-<!--            android:id="@+id/tv_dots"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:gravity="left"-->
-<!--            android:maxLines="1"-->
-<!--            android:text="..."-->
-<!--            app:layout_constraintTop_toTopOf="parent"-->
-<!--            app:layout_constraintStart_toEndOf="@id/tv_joke"-->
-<!--            app:layout_constraintEnd_toEndOf="parent"-->
-<!--            android:layout_marginRight="@dimen/padding_16"-->
-<!--            tools:text="..." />-->
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
